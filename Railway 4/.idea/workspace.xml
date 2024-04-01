@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5d396ae-b8b0-415b-9def-3a26bf6d0496" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2SSYlSFlTVZZvs6U91vAIBALBmP" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.railway.com.example.RailwayAndMeal in RailwayAndMeal.executor": "Run",
+    "Maven.RailwayAndMeal [clean].executor": "Run",
+    "Maven.RailwayAndMeal [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Coding Ninjas/Downloads/Coding Ninja Test Cases/Coding Ninja Test Cases/08. Lecture Rest API Put-Delete/Railway Application IV/Railway 4"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.railway.com.example.RailwayAndMeal in RailwayAndMeal">
+    <configuration name="RailwayServiceTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="putDelete3Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="railway.com.example.RailwayAndMeal.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="railway.com.example.RailwayAndMeal.service" />
+      <option name="MAIN_CLASS_NAME" value="railway.com.example.RailwayAndMeal.service.RailwayServiceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="controllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="putDelete3Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="railway.com.example.RailwayAndMeal.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="railway.com.example.RailwayAndMeal.controller" />
+      <option name="MAIN_CLASS_NAME" value="railway.com.example.RailwayAndMeal.controller.controllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="controllerTest.testAddticketWithInvalidName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="putDelete3Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="railway.com.example.RailwayAndMeal.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="railway.com.example.RailwayAndMeal.controller" />
+      <option name="MAIN_CLASS_NAME" value="railway.com.example.RailwayAndMeal.controller.controllerTest" />
+      <option name="METHOD_NAME" value="testAddticketWithInvalidName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="controllerTest.testAddticketWithPnr0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="putDelete3Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="railway.com.example.RailwayAndMeal.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="railway.com.example.RailwayAndMeal.controller" />
+      <option name="MAIN_CLASS_NAME" value="railway.com.example.RailwayAndMeal.controller.controllerTest" />
+      <option name="METHOD_NAME" value="testAddticketWithPnr0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="railway.com.example.RailwayAndMeal in RailwayAndMeal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RailwayAndMeal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="railway.com.example.RailwayAndMeal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="railway.com.example.RailwayAndMeal" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Write tests for class controller" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="RailwayAndMeal" />
+      <settings run-config-name="Write tests for class controller" include-system-env-vars="true">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="railway.com.example.RailwayAndMeal.controller.controller" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.railway.com.example.RailwayAndMeal in RailwayAndMeal" />
+        <item itemvalue="JUnit.controllerTest" />
+        <item itemvalue="JUnit.controllerTest.testAddticketWithInvalidName" />
+        <item itemvalue="JUnit.controllerTest.testAddticketWithPnr0" />
+        <item itemvalue="JUnit.RailwayServiceTests (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-8336523bb0d9-93b19daf" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5d396ae-b8b0-415b-9def-3a26bf6d0496" name="Changes" comment="" />
+      <created>1689141600102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689141600102</updated>
+    </task>
+    <servers />
+  </component>
+</project>
